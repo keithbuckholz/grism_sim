@@ -34,7 +34,7 @@ test = [
 "Source Code" = "https://github.com/roman-grs-pit/grism_sim"
 
 [build-system]
-requires - [
+requires = [
     "setuptools>=60",
     "setuptools_scm>=8.0",
     "wheel"
