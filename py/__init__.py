@@ -14,3 +14,10 @@ from .combine_img_utils import (
     combine_grism,
     combine_ref
 )
+
+from . import _version
+
+try:
+    __version__ = _version.version
+except Exception:
+    __version__ = "dev"
