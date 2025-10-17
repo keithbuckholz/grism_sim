@@ -44,8 +44,8 @@ build-backend = "setuptools.build_meta"
 [tool.setuptools_scm]
 write_to = "py/_version.py"
 
-[tool.setuptools]
-"package_dir" = { "grism_sim" = "py" }
+# [tool.setuptools]
+# "package_dir" = { "grism_sim" = "py" }
 
 [tool.setuptools.packages.find]
 where = ["py"]
