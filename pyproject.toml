@@ -19,6 +19,7 @@ dependencies = [
     "pysynphot",
     "grizli",
     "pysiaf",   
+    "stpsf",
 ]
 dynamic = ["version"]
 
