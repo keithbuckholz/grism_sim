@@ -1,5 +1,5 @@
 [project]
-name = "Roman GRS PIT Grism Simulations"
+name = "grism_sim"
 authors = [{name = "Roman Galaxy Redshift Survey Project Infrastructure Team"}]
 description = "Grism Simulation software for the Roman GRS PIT"
 readme = "README.md"
